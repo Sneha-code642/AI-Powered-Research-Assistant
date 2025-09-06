@@ -1,0 +1,10 @@
+streamlit
+langchain
+openai
+faiss-cpu
+unstructured
+python-magic-bin
+python-dotenv
+requests
+python-docx
+pypdf
