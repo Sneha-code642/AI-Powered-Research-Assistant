@@ -1,0 +1,13 @@
+# Ignore environment and API keys
+.env
+.config
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore FAISS index
+faiss_index/
+
+# Ignore virtual environment
+venv/
